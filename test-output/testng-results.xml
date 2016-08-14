@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7264" started-at="2016-08-14T05:35:35Z" finished-at="2016-08-14T05:35:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7264" started-at="2016-08-14T05:35:35Z" finished-at="2016-08-14T05:35:42Z">
+      <class name="fouadProjects.gitTest.AppTest">
+        <test-method status="PASS" signature="guru99tutorials()[pri:0, instance:fouadProjects.gitTest.AppTest@d2cc05a]" name="guru99tutorials" duration-ms="7239" started-at="2016-08-14T01:35:35Z" finished-at="2016-08-14T01:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru99tutorials -->
+      </class> <!-- fouadProjects.gitTest.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
